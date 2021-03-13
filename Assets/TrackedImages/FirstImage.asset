@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: FirstImage
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5389221009939039155
+  m_GuidHigh: 17070087135939510685
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5337399908060002192
+      m_GuidHigh: 4925945555901950884
+    m_SerializedTextureGuid:
+      m_GuidLow: 16898774970075059764
+      m_GuidHigh: 1675533146792082585
+    m_Size: {x: 0.2, y: 0.17493333}
+    m_SpecifySize: 1
+    m_Name: Hambuger
+    m_Texture: {fileID: 2800000, guid: 3e961634824dea84993cef0785b04017, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4870389302588460634
+      m_GuidHigh: 1930755886848978105
+    m_SerializedTextureGuid:
+      m_GuidLow: 2640310460141573340
+      m_GuidHigh: 2505771876196075755
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: Milk
+    m_Texture: {fileID: 2800000, guid: e17c94dc445f24a4ebc8d4c83e4ac622, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5591313085093648020
+      m_GuidHigh: 1586040819683105675
+    m_SerializedTextureGuid:
+      m_GuidLow: 15777267093290424934
+      m_GuidHigh: 10732466098653449432
+    m_Size: {x: 0.2, y: 0.2456044}
+    m_SpecifySize: 1
+    m_Name: Donuts
+    m_Texture: {fileID: 2800000, guid: 6e091a661cd4daf4d84c29be0d61f194, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4727290260492451750
+      m_GuidHigh: 10150332971545638797
+    m_SerializedTextureGuid:
+      m_GuidLow: 16556401666377286684
+      m_GuidHigh: 11632433658603901176
+    m_Size: {x: 0.21462366, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: Cake
+    m_Texture: {fileID: 2800000, guid: 931a841c2798e5c4f81062fec7b46ea1, type: 3}
